@@ -1,7 +1,10 @@
-# It is a Mordern Youtube Clone 
-# Create by me with through research and development
+It is a Mordern Youtube Clone 
 
-# Dependecies required :: 
+
+ # This is the Deployed link of my lakhanpal streams App
+ # https://yt-lovat.vercel.app/
+
+Dependecies required :: 
 
 steps :
  --> clone the repository 
@@ -11,5 +14,4 @@ steps :
 
 
  # This is the Deployed link of my lakhanpal streams App
- 
  # https://yt-lovat.vercel.app/
